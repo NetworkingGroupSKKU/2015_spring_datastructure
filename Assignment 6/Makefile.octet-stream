@@ -1,0 +1,7 @@
+#Makefile
+
+navigator : Word-list navigator.cpp Word-list.h
+	g++ -o navigator Word-list navigator.cpp
+
+Word-list: Word-list.cpp Word-list.h
+	g++ -o Word-list -c Word-list.cpp
