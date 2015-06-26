@@ -1,0 +1,23 @@
+Data structure
+prof: Dongsoo S. kim
+Assignment 8
+2009311707 ji min Kim
+
+CAUTION : I was done this assignment at linux(ubuntu). So, I recommend that my assignment is tested at linux enviroment.
+
+Files : 
+	////*** in Folder 'files' ****//// 
+	
+	/* Code File */
+	BinTree.cpp
+	/* Execution file of Dictionary.cpp */
+	BinTree.exe
+
+	////*** in Folder 'output_text' ****////
+
+	/* Output text (I copy manually from shell) */
+	bintree.txt 
+	
+Command:
+	bintree.txt : [./BinTree]
+	
