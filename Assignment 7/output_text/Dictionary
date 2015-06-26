@@ -1,0 +1,229 @@
+size is 167
+hash_1 mean loading density is 7.52695
+hash_1 stdev is 3.07942
+hash_1 Minimum chain length is 2
+hash_1 Maximum chain length is 17
+hash_1 Number of comparisons are 46755
+
+hash_2 mean loading density is 7.52695
+hash_2 stdev is 4.17551
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 28
+hash_2 Number of comparisons are 48435
+----------------------------------------------------
+size is 173
+hash_1 mean loading density is 7.2659
+hash_1 stdev is 3.00651
+hash_1 Minimum chain length is 1
+hash_1 Maximum chain length is 16
+hash_1 Number of comparisons are 43557
+
+hash_2 mean loading density is 7.2659
+hash_2 stdev is 4.18901
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 22
+hash_2 Number of comparisons are 50099
+----------------------------------------------------
+size is 179
+hash_1 mean loading density is 7.02235
+hash_1 stdev is 2.76845
+hash_1 Minimum chain length is 1
+hash_1 Maximum chain length is 16
+hash_1 Number of comparisons are 41655
+
+hash_2 mean loading density is 7.02235
+hash_2 stdev is 3.78317
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 19
+hash_2 Number of comparisons are 44096
+----------------------------------------------------
+size is 181
+hash_1 mean loading density is 6.94475
+hash_1 stdev is 2.68971
+hash_1 Minimum chain length is 2
+hash_1 Maximum chain length is 15
+hash_1 Number of comparisons are 43523
+
+hash_2 mean loading density is 6.94475
+hash_2 stdev is 4.04358
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 23
+hash_2 Number of comparisons are 44490
+----------------------------------------------------
+size is 191
+hash_1 mean loading density is 6.58115
+hash_1 stdev is 2.89655
+hash_1 Minimum chain length is 0
+hash_1 Maximum chain length is 18
+hash_1 Number of comparisons are 40674
+
+hash_2 mean loading density is 6.58115
+hash_2 stdev is 3.72658
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 20
+hash_2 Number of comparisons are 46714
+----------------------------------------------------
+size is 193
+hash_1 mean loading density is 6.51295
+hash_1 stdev is 2.69351
+hash_1 Minimum chain length is 1
+hash_1 Maximum chain length is 14
+hash_1 Number of comparisons are 38743
+
+hash_2 mean loading density is 6.51295
+hash_2 stdev is 3.69443
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 19
+hash_2 Number of comparisons are 47232
+----------------------------------------------------
+size is 197
+hash_1 mean loading density is 6.38071
+hash_1 stdev is 3.09777
+hash_1 Minimum chain length is 0
+hash_1 Maximum chain length is 17
+hash_1 Number of comparisons are 39157
+
+hash_2 mean loading density is 6.38071
+hash_2 stdev is 3.87
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 23
+hash_2 Number of comparisons are 41688
+----------------------------------------------------
+size is 199
+hash_1 mean loading density is 6.31658
+hash_1 stdev is 3.36032
+hash_1 Minimum chain length is 0
+hash_1 Maximum chain length is 16
+hash_1 Number of comparisons are 41210
+
+hash_2 mean loading density is 6.31658
+hash_2 stdev is 3.82865
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 18
+hash_2 Number of comparisons are 48242
+----------------------------------------------------
+size is 211
+hash_1 mean loading density is 5.95735
+hash_1 stdev is 5.58884
+hash_1 Minimum chain length is 0
+hash_1 Maximum chain length is 24
+hash_1 Number of comparisons are 59221
+
+hash_2 mean loading density is 5.95735
+hash_2 stdev is 4.32376
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 17
+hash_2 Number of comparisons are 48549
+----------------------------------------------------
+size is 223
+hash_1 mean loading density is 5.63677
+hash_1 stdev is 4.64796
+hash_1 Minimum chain length is 0
+hash_1 Maximum chain length is 19
+hash_1 Number of comparisons are 50899
+
+hash_2 mean loading density is 5.63677
+hash_2 stdev is 4.30433
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 22
+hash_2 Number of comparisons are 51047
+----------------------------------------------------
+size is 227
+hash_1 mean loading density is 5.53744
+hash_1 stdev is 3.94032
+hash_1 Minimum chain length is 0
+hash_1 Maximum chain length is 17
+hash_1 Number of comparisons are 43692
+
+hash_2 mean loading density is 5.53744
+hash_2 stdev is 3.82689
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 19
+hash_2 Number of comparisons are 44073
+----------------------------------------------------
+size is 229
+hash_1 mean loading density is 5.48908
+hash_1 stdev is 3.70366
+hash_1 Minimum chain length is 0
+hash_1 Maximum chain length is 19
+hash_1 Number of comparisons are 41634
+
+hash_2 mean loading density is 5.48908
+hash_2 stdev is 3.90679
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 17
+hash_2 Number of comparisons are 43704
+----------------------------------------------------
+size is 233
+hash_1 mean loading density is 5.39485
+hash_1 stdev is 2.82666
+hash_1 Minimum chain length is 0
+hash_1 Maximum chain length is 16
+hash_1 Number of comparisons are 37266
+
+hash_2 mean loading density is 5.39485
+hash_2 stdev is 3.63204
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 22
+hash_2 Number of comparisons are 39843
+----------------------------------------------------
+size is 239
+hash_1 mean loading density is 5.25941
+hash_1 stdev is 2.40111
+hash_1 Minimum chain length is 1
+hash_1 Maximum chain length is 15
+hash_1 Number of comparisons are 32779
+
+hash_2 mean loading density is 5.25941
+hash_2 stdev is 3.40066
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 17
+hash_2 Number of comparisons are 37644
+----------------------------------------------------
+size is 241
+hash_1 mean loading density is 5.21577
+hash_1 stdev is 2.21536
+hash_1 Minimum chain length is 1
+hash_1 Maximum chain length is 12
+hash_1 Number of comparisons are 31904
+
+hash_2 mean loading density is 5.21577
+hash_2 stdev is 3.40781
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 18
+hash_2 Number of comparisons are 39747
+----------------------------------------------------
+size is 251
+hash_1 mean loading density is 5.00797
+hash_1 stdev is 2.26526
+hash_1 Minimum chain length is 0
+hash_1 Maximum chain length is 13
+hash_1 Number of comparisons are 33327
+
+hash_2 mean loading density is 5.00797
+hash_2 stdev is 3.2615
+hash_2 Minimum chain length is 0
+hash_2 Maximum chain length is 21
+hash_2 Number of comparisons are 34877
+----------------------------------------------------
+Rank 1=> Occurence : 901 / Word : the
+Rank 2=> Occurence : 302 / Word : internet
+Rank 3=> Occurence : 295 / Word : of
+Rank 4=> Occurence : 281 / Word : is
+Rank 5=> Occurence : 279 / Word : to
+Rank 6=> Occurence : 221 / Word : a
+Rank 7=> Occurence : 193 / Word : in
+Rank 8=> Occurence : 176 / Word : and
+Rank 9=> Occurence : 175 / Word : datagram
+Rank 10=> Occurence : 141 / Word : protocol
+Rank 11=> Occurence : 120 / Word : be
+Rank 12=> Occurence : 115 / Word : for
+Rank 13=> Occurence : 113 / Word : this
+Rank 14=> Occurence : 101 / Word : address
+Rank 15=> Occurence : 94 / Word : header
+Rank 16=> Occurence : 88 / Word : data
+Rank 17=> Occurence : 86 / Word : fragment
+Rank 18=> Occurence : 84 / Word : an
+Rank 19=> Occurence : 77 / Word : length
+Rank 20=> Occurence : 68 / Word : field
+

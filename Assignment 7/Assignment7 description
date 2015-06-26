@@ -1,0 +1,51 @@
+Data structure
+prof: Dongsoo S. kim
+Assignment 7
+2009311707 ji min Kim
+
+CAUTION : I was done this assignment at linux(ubuntu). So, I recommend that my assignment is tested at linux enviroment.
+
+Notice 1:
+>> I split my code into 'Dictionary.cpp' , 'Hash.h', 'Hash.cpp' as stated below.
+So, for linking convenience, I make 'Makefile'.
+If my executuon file make some noise, recommend enter command [make] for re-compiling.
+
+Notice 2:
+>> I use 'chart.cpp' for drawing chart of top 20 most frequent words.
+I already compile this file, so if you want print chart, enter command [./chart].
+Also I copy this chart at my output file.
+
+Files : 
+	////*** in Folder 'files' ****//// 
+	
+	/* Code File */
+	Dictionary.cpp
+	/* header File */
+	Hash.h
+	/* Function description of Hash.h file */
+	Hash.cpp
+	/* Makefile for link Dictionary.cpp, Hash.h, Hash.cpp */
+	Makefile
+	/* Execution file of Dictionary.cpp */
+	Dictionary.exe
+	/* Object file of Hash.cpp */
+	Hash.o 
+
+	/* Drawing chart File */
+	chart.cpp
+	chart.exe
+	/* Input text */
+	words.txt
+
+
+	////*** in Folder 'output_text' ****////
+
+	/* Output text (I copy manually from shell) */
+	Dictionary.txt 
+	Chart.txt
+	
+Command:
+
+	Dictionary.txt : [./Dictionary]
+	Chart.txt : [./chart]
+	
