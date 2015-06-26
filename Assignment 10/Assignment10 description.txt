@@ -1,0 +1,20 @@
+Data structure
+prof: Dongsoo S. kim
+Assignment 10
+2009311707 ji min Kim
+
+CAUTION : I was done this assignment at Windows Visual Studio 2010 because uploaded graphic library for linux isn't operate well. 
+	
+
+Files : 
+	////*** in Folder 'files' ****//// 	
+
+		/* Code File */
+		dijkstra.cpp ( This file is must compiled and excuted at windows with graphic libraray. )
+
+
+	////*** in Folder 'output_text' ****////
+
+		/* Output text (I copy manually from cmd shell ) */
+
+		dijkstra.txt

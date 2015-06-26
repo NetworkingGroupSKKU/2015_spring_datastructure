@@ -1,0 +1,60 @@
+                  MAX      AVG
+"Agrigento" :    1709    1227.31
+  "Alassio" : 1563.98    503.017
+   "Ancona" :    1337    510.854
+    "Aosta" :    1668    605.436
+   "Arezzo" :    1405    497.199
+   "Assisi" :    1334    525.617
+     "Bari" :     971    625.654
+  "Bergamo" :    1479    462.763
+  "Bologna" :    1278    404.109
+  "Bolzano" :    1249      415.8
+  "Caserta" :     955    520.672
+  "Catania" :    1507    1030.05
+ "Cervinia" :    1671    608.381
+     "Como" :    1532    482.345
+  "Cortina" :    1358    471.072
+  "Cosenza" :    1206    790.272
+  "Ferrara" :    1325    422.709
+ "Florence" :    1384    451.399
+    "Genoa" :    1563     502.09
+ "L'Aquila" :    1188    516.363
+    "Lecce" :    1125    770.927
+    "Lucca" :    1420    474.745
+  "Mantova" :    1389    431.036
+   "Matera" :     905    607.309
+  "Messina" :    1391    932.981
+    "Milan" :    1496    446.654
+   "Modena" :    1317    418.909
+   "Naples" :     927    526.145
+  "Ortisei" :    1288    448.091
+    "Padua" :    1400    413.745
+  "Palermo" :    1573    1093.78
+    "Parma" :    1368    438.236
+    "Pavia" :    1481    454.036
+  "Perugia" :    1335    514.599
+ "Placenza" :    1428    421.363
+     "Pisa" :    1440    485.254
+  "Ravenna" :    1355    459.218
+    "Reggio :    1425    960.563
+   "Rimini" :    1391    475.691
+     "Roma" :    1159    419.291
+  "Salerno" :     980    573.527
+  "Sanremo" :    1709    638.909
+"Sestriere" :    1694    630.963
+    "Siena" :    1391    480.799
+ "Siracusa" :    1583    1103.91
+   "Stresa" :    1575    517.727
+ "Taormina" :    1461    991.327
+  "Taranto" :    1058    703.909
+    "Turin" :    1616    544.161
+   "Trento" :    1307    431.472
+  "Trieste" :    1583    549.418
+    "Udine" :    1532    520.472
+   "Venice" :    1437    416.563
+   "Verona" :    1399    430.363
+  "Vicenza" :    1403    426.636
+  "Viterbo" :    1240      477.2
+
+=> diameter is 1709
+=> radius is 905
