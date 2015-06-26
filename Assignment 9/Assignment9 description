@@ -1,0 +1,83 @@
+Data structure
+prof: Dongsoo S. kim
+Assignment 9
+2009311707 ji min Kim
+
+CAUTION : I was done this assignment at Windows because uploaded graphic library for linux isn't operate well. 
+	So, Main file "erdos.cpp" is must compiled and excuted at Visual studio with graphic library.
+	But, Drawing chart was done at linux(ubuntu) like to previous assignmnets.
+	I copied output text files of "erdos.cpp" into linux manually and draw chart using "chart.cpp".
+	Additionally, I included "chart.cpp", "chartFunc.cpp", "chart.h" because these files is modified for print average, standard deviation value.
+
+Files : 
+	////*** in Folder 'erdos_files' ****//// 	
+
+		/* Code File */
+		erodos.cpp ( This file is must compiled and excuted at windows with graphic libraray. )
+
+
+	////*** in Folder 'chart_files' ****////
+
+		/* chart code File */
+		chart.cpp
+		/* chart header File */
+		chart.h
+		/* Function description of chart.h file */
+		chartFunc.cpp 
+		/* Makefile for link chart.cpp, chart.h, chartFunc.cpp */
+		Makefile	
+
+		/* Execution file of chart.cpp */
+		chart.exe
+		/* Object file of chartFunc.cpp */
+		chartFunc.o 
+
+		/* Input text for drawing */
+		( Output text file of "erdos.cpp". It contains degree of each nodes according to condition.
+		These files is made at windows and I manually copy into linux for drawing. ) 
+
+		erdos_p=0.1_seed=0_direction=0.txt
+		erdos_p=0.1_seed=0_direction=1.txt
+		erdos_p=0.1_seed=1_direction=0.txt
+		erdos_p=0.1_seed=1_direction=1.txt
+		erdos_p=0.15_seed=0_direction=0.txt
+		erdos_p=0.15_seed=0_direction=1.txt
+		erdos_p=0.15_seed=1_direction=0.txt
+		erdos_p=0.15_seed=1_direction=1.txt
+		erdos_p=0.2_seed=0_direction=0.txt
+		erdos_p=0.2_seed=0_direction=1.txt
+		erdos_p=0.2_seed=1_direction=0.txt
+		erdos_p=0.2_seed=1_direction=1.txt
+
+
+	////*** in Folder 'output_text' ****////
+
+		/* Output text (I copy manually from shell) */
+
+		chart_p=0.1_seed=0_direction=0.txt
+		chart_p=0.1_seed=0_direction=1.txt
+		chart_p=0.1_seed=1_direction=0.txt
+		chart_p=0.1_seed=1_direction=1.txt
+		chart_p=0.15_seed=0_direction=0.txt
+		chart_p=0.15_seed=0_direction=1.txt
+		chart_p=0.15_seed=1_direction=0.txt
+		chart_p=0.15_seed=1_direction=1.txt
+		chart_p=0.2_seed=0_direction=0.txt
+		chart_p=0.2_seed=0_direction=1.txt
+		chart_p=0.2_seed=1_direction=0.txt
+		chart_p=0.2_seed=1_direction=1.txt
+	
+Command:
+	chart_p=0.1_seed=0_direction=0.txt	:[./chart erdos_p=0.1_seed=0_direction=0.txt]
+	chart_p=0.1_seed=0_direction=1.txt	:[./chart erdos_p=0.1_seed=0_direction=1.txt]
+	chart_p=0.1_seed=1_direction=0.txt	:[./chart erdos_p=0.1_seed=1_direction=0.txt]
+	chart_p=0.1_seed=1_direction=1.txt	:[./chart erdos_p=0.1_seed=1_direction=1.txt]
+	chart_p=0.15_seed=0_direction=0.txt	:[./chart erdos_p=0.15_seed=0_direction=0.txt]
+	chart_p=0.15_seed=0_direction=1.txt	:[./chart erdos_p=0.15_seed=0_direction=1.txt]
+	chart_p=0.15_seed=1_direction=0.txt	:[./chart erdos_p=0.15_seed=1_direction=0.txt]
+	chart_p=0.15_seed=1_direction=1.txt	:[./chart erdos_p=0.15_seed=1_direction=1.txt]
+	chart_p=0.2_seed=0_direction=0.txt	:[./chart erdos_p=0.2_seed=0_direction=0.txt]
+	chart_p=0.2_seed=0_direction=1.txt	:[./chart erdos_p=0.2_seed=0_direction=1.txt]
+	chart_p=0.2_seed=1_direction=0.txt	:[./chart erdos_p=0.2_seed=1_direction=0.txt]
+	chart_p=0.2_seed=1_direction=1.txt	:[./chart erdos_p=0.2_seed=1_direction=1.txt]
+	
